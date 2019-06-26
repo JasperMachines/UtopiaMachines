@@ -11,9 +11,9 @@ Contiene:
 -**Firmware Zeepro Zim 150x150x150mm**  
    -Perfil para single & dual extruder PLA 1.75mm  
 -**Firmware Pellet Printer 250x250x200mm**  
-   -Perfil para PLA
-   -Perfil para Spiral Vase
--**Firmware Laminar Printer 300x400x300mm**
-   -Perfil Experimental de impresion laminar
+   -Perfil para PLA  
+   -Perfil para Spiral Vase  
+-**Firmware Laminar Printer 300x400x300mm**  
+   -Perfil Experimental de impresion laminar  
    
    
