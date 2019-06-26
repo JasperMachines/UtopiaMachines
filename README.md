@@ -3,10 +3,10 @@ Este es el Repositorio para los firmware de las maquinas de UTOPIAMAKER sede ICI
 
 Contiene:
 
--**Firmware COREXY 200x200x200mm**
-   -Perfil para filamento PLA 1.75mm
-   -Perfil para filamento NinjaFlex
--**Firmware Ultimaker Original Wood 200x200x200mm**
+##-**Firmware COREXY 200x200x200mm**
+   ###-Perfil para filamento PLA 1.75mm
+   ###-Perfil para filamento NinjaFlex
+##-**Firmware Ultimaker Original Wood 200x200x200mm**
    -Perfil para filamento PLA 3mm
 -**Firmware Zeepro Zim 150x150x150mm**
    -Perfil para single & dual extruder PLA 1.75mm
